@@ -7,4 +7,4 @@ A simple WhatCoin paper wallet
 
 
 # Donate WATC: 
-WS8U7SDVCvTdkEsi1Z9T4MmhkSSA6JJmay
+WXRwrE2ZxF1j4uz4qH4bnUfPJ8ugTE6MXA
