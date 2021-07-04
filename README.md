@@ -1,4 +1,4 @@
-# WhatCoin-WATC-paper-wallet
+# WhatCoin (WATC) paper wallet
 A simple WhatCoin paper wallet
 
 ### Use this wallet at your own risk.
