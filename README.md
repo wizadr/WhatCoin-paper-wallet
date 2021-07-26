@@ -7,4 +7,4 @@ A simple WhatCoin paper wallet
 https://art3m198.github.io/WhatCoin-paper-wallet/
 
 # Donate WATC: 
-PQFBgc9UqzLLNmoijxzFn8Zop58PRQHskQ
+WXRwrE2ZxF1j4uz4qH4bnUfPJ8ugTE6MXA
