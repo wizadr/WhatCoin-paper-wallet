@@ -33,7 +33,7 @@ function newwatc(){
 	var address = getAddress(keys)
 
 	if (address != undefined) {
-		var addrurl = "https://explorer.whatcoin.cash/";
+		var addrurl = "https://explorer.whatcoin.cash/address/"+address;
 		document.getElementById("address").innerHTML = address;
 		document.getElementById("secret").innerHTML = keys.toWIF();
 		document.getElementById("address-top").innerHTML = address;
